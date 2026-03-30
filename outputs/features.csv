@@ -1,0 +1,319 @@
+﻿Dosya_Adi,Denek_ID,Cinsiyet,Yas,Duygu,Cumle_No,Kayit_Cihazi,ORTAM,gurultu_seviyesi,Dosya_Path,Kaynak_Excel,Grup_Klasoru,Mean_F0,Std_F0,Mean_Energy,Mean_ZCR,Voiced_Frame_Count
+G18_D02_E_53_Notr_C1.wav,D02,K,58,Notr,1,Samsung A54,ev,dusuk,Dataset\GRUP_18\G18_D02_E_53_Notr_C1.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,107.17,36.91,33.083187,0.024274,96
+G01_D03_C_7_Notr_C1.wav,D03,C,7,Notr,1,İPhone 15,ev,dusuk,Dataset\GRUP_01\G01_D03_C_7_Notr_C1.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,308.99,43.44,2.175926,0.034423,91
+G01_D03_C_7_Mutlu_C2.wav,D03,C,7,Mutlu,2,İPhone 15,ev,dusuk,Dataset\GRUP_01\G01_D03_C_7_Mutlu_C2.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,324.07,60.27,9.54528,0.058775,151
+G01_D03_C_7_Saskin_C5.wav,D03,C,7,Saskin,5,İPhone 15,ev,dusuk,Dataset\GRUP_01\G01_D03_C_7_Saskin_C5.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,281.14,40.61,12.020213,0.041063,69
+G01_D04_C_10_Notr_C1.wav,D04,C,10,Notr,1,İPhone 15,ev,dusuk,Dataset\GRUP_01\G01_D04_C_10_Notr_C1.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,343.3,45.22,10.952277,0.028531,177
+G01_D04_C_10_Uzgun_C4.wav,D04,C,10,Uzgun,4,İPhone 15,ev,dusuk,Dataset\GRUP_01\G01_D04_C_10_Uzgun_C4.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,349.97,45.91,5.049925,0.02055,147
+G01_D04_C_10_Ofkeli_C3.wav,D04,C,10,Ofkeli,3,İPhone 15,ev,dusuk,Dataset\GRUP_01\G01_D04_C_10_Ofkeli_C3.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,298.3,49.61,46.704315,0.094984,76
+G01_D05_E_20_Notr_C1.wav,D05,E,20,Notr,1,iPhone 11,ev,dusuk,Dataset\GRUP_01\G01_D05_E_20_Notr_C1.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,157.58,27.64,25.643665,0.021127,139
+G01_D05_E_20_Ofkeli_C3.wav,D05,E,20,Ofkeli,3,iPhone 11,ev,dusuk,Dataset\GRUP_01\G01_D05_E_20_Ofkeli_C3.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,211.89,29.95,59.434059,0.030244,147
+G01_D06_K_19_Notr_C1.wav,D06,K,19,Notr,1,iPhone 14,ev,dusuk,Dataset\GRUP_01\G01_D06_K_19_Notr_C1.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,242.13,45.23,24.564558,0.023679,164
+G01_D06_K_19_Mutlu_C2.wav,D06,K,19,Mutlu,2,iPhone 14,ev,dusuk,Dataset\GRUP_01\G01_D06_K_19_Mutlu_C2.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,301.34,20.88,37.708344,0.036239,232
+G01_D06_K_19_Ofkeli_C3.wav,D06,K,19,Ofkeli,3,iPhone 14,ev,dusuk,Dataset\GRUP_01\G01_D06_K_19_Ofkeli_C3.wav,Dataset\GRUP_01\Grup_01_MetaVeri.xlsx,GRUP_01,298.66,35.02,54.726315,0.045006,129
+G02_D01_C_12_Notr_C1,D01,C,12,Notr,1,Xiaomi mi 9,ev,,Dataset\GRUP_02\G02_D01_C_12_Notr_C1.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,291.67,35.66,10.223199,0.044749,224
+G02_D01_C_12_Mutlu_C2,D01,C,12,Mutlu,2,Xiaomi mi 9,ev,,Dataset\GRUP_02\G02_D01_C_12_Mutlu_C2.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,287.1,16.07,16.822926,0.025934,199
+G02_D01_C_12_Ofkeli_C3,D01,C,12,Ofkeli,3,Xiaomi mi 9,ev,,Dataset\GRUP_02\G02_D01_C_12_Ofkeli_C3.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,278.13,15.69,18.123272,0.021776,222
+G02_D02_C_12_Notr_C1,D02,C,12,Notr,1,Xiaomi mi 9,ev,,Dataset\GRUP_02\G02_D02_C_12_Notr_C1.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,274.61,19.57,7.477336,0.029409,232
+G02_D02_C_12_Mutlu_C2,D02,C,12,Mutlu,2,Xiaomi mi 9,ev,,Dataset\GRUP_02\G02_D02_C_12_Mutlu_C2.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,295.92,19.19,11.653534,0.024136,241
+G02_D02_C_12_Ofkeli_C3,D02,C,12,Ofkeli,3,Xiaomi mi 9,ev,,Dataset\GRUP_02\G02_D02_C_12_Ofkeli_C3.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,285.0,66.18,15.820101,0.027405,263
+G02_D03_K_21_Notr_C1,D03,K,21,Notr,1,İphone 13,ev,,Dataset\GRUP_02\G02_D03_K_21_Notr_C1.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,225.8,21.1,66.99968,0.033693,85
+G02_D03_K_21_Ofkeli_C3,D03,K,21,Ofkeli,3,İphone 13,ev,,Dataset\GRUP_02\G02_D03_K_21_Ofkeli_C3.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,262.34,41.62,61.586975,0.036425,128
+G02_D03_K_21_Uzgun_C4,D03,K,21,Uzgun,4,İphone 13,ev,,Dataset\GRUP_02\G02_D03_K_21_Uzgun_C4.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,253.74,42.0,45.748566,0.032629,139
+G02_D04_E_17_Notr_C1,D04,E,17,Notr,1,İphone 11,ev,,Dataset\GRUP_02\G02_D04_E_17_Notr_C1.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,128.01,60.58,53.665089,0.03815,120
+G02_D04_E_17_Ofkeli_C3,D04,E,17,Ofkeli,3,İphone 11,ev,,Dataset\GRUP_02\G02_D04_E_17_Ofkeli_C3.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,130.49,25.01,66.477844,0.038096,165
+G02_D04_E_17_Uzgun_C4,D04,E,17,Uzgun,4,İphone 11,ev,,Dataset\GRUP_02\G02_D04_E_17_Uzgun_C4.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,116.62,14.86,35.389496,0.034335,160
+G02_D05_E_17_Notr_C1,D05,E,17,Notr,1,İphone 11,ev,,Dataset\GRUP_02\G02_D05_E_17_Notr_C1.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,140.93,82.37,22.43606,0.030312,141
+G02_D05_E_17_Ofkeli_C3,D05,E,17,Ofkeli,3,İphone 11,ev,,Dataset\GRUP_02\G02_D05_E_17_Ofkeli_C3.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,173.66,97.51,55.923912,0.037442,153
+G02_D05_E_17_Uzgun_C4,D05,E,17,Uzgun,4,İphone 11,ev,,Dataset\GRUP_02\G02_D05_E_17_Uzgun_C4.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,140.83,88.39,18.534933,0.02824,170
+G02_D06_K_20_Notr_C1,D06,K,20,Notr,1,İphone 14,ev,,Dataset\GRUP_02\G02_D06_K_20_Notr_C1.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,234.96,58.59,5.072751,0.02289,89
+G02_D06_K_20_Ofkeli_C3,D06,K,20,Ofkeli,3,İphone 14,ev,,Dataset\GRUP_02\G02_D06_K_20_Ofkeli_C3.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,231.97,36.82,8.446694,0.021532,199
+G02_D06_K_20_Uzgun_C4,D06,K,20,Uzgun,4,İphone 14,ev,,Dataset\GRUP_02\G02_D06_K_20_Uzgun_C4.wav,Dataset\GRUP_02\Grup_02_MetaVeri.xlsx,GRUP_02,228.46,26.17,5.275826,0.024801,145
+G03_D01_E_18_Notr_C1.wav,D01,E,18,Notr,1,iPhone 16 Pro Max,ev,,Dataset\GRUP_03\G03_D01_E_18_Notr_C1.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,147.36,51.45,51.862083,0.030299,149
+G03_D01_E_18_Ofkeli_C3.wav,D01,E,18,Ofkeli,3,iPhone 16 Pro Max,ev,,Dataset\GRUP_03\G03_D01_E_18_Ofkeli_C3.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,169.07,23.08,59.171227,0.024802,187
+G03_D01_E_18_Uzgun_C4.wav,D01,E,18,Uzgun,4,iPhone 16 Pro Max,ev,,Dataset\GRUP_03\G03_D01_E_18_Uzgun_C4.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,136.7,36.61,31.162931,0.022723,146
+G03_D02_E_20_Notr_C1.wav,D02,E,20,Notr,1,Poco X6 Pro,ev,,Dataset\GRUP_03\G03_D02_E_20_Notr_C1.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,140.55,39.76,10.873275,0.012901,166
+G03_D02_E_20_Ofkeli_C3.wav,D02,E,20,Ofkeli,3,Poco X6 Pro,ev,,Dataset\GRUP_03\G03_D02_E_20_Ofkeli_C3.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,157.86,40.22,14.072741,0.019762,182
+G03_D02_E_20_Uzgun_C4.wav,D02,E,20,Uzgun,4,Poco X6 Pro,ev,,Dataset\GRUP_03\G03_D02_E_20_Uzgun_C4.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,149.81,33.25,14.885832,0.018215,191
+G03_D03_C_11_Mutlu_C2.wav,D03,C,11,Mutlu,2,Samsung A55,ev,,Dataset\GRUP_03\G03_D03_C_11_Mutlu_C2.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,264.51,21.3,7.418283,0.01866,371
+G03_D03_C_11_Ofkeli_C3.wav,D03,C,11,Ofkeli,3,Samsung A55,ev,,Dataset\GRUP_03\G03_D03_C_11_Ofkeli_C3.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,253.17,23.51,8.76152,0.015573,340
+G03_D03_C_11_Saskin_C5.wav,D03,C,11,Saskin,5,Samsung A55,ev,,Dataset\GRUP_03\G03_D03_C_11_Saskin_C5.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,259.0,36.54,7.044495,0.021063,255
+G03_D04_C_08_Mutlu_C2.wav,D04,C,8,Mutlu,2,Samsung A55,ev,,Dataset\GRUP_03\G03_D04_C_08_Mutlu_C2.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,273.76,28.59,18.617376,0.026067,380
+G03_D04_C_08_Ofkeli_C3.wav,D04,C,8,Ofkeli,3,Samsung A55,ev,,Dataset\GRUP_03\G03_D04_C_08_Ofkeli_C3.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,279.71,34.64,22.866697,0.024992,362
+G03_D04_C_08_Uzgun_C4.wav,D04,C,8,Uzgun,4,Samsung A55,ev,,Dataset\GRUP_03\G03_D04_C_08_Uzgun_C4.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,283.84,41.87,17.818048,0.024449,332
+G03_D05_K_29_Mutlu_C2.wav,D05,K,29,Mutlu,2,Samsung A55,ev,,Dataset\GRUP_03\G03_D05_K_29_Mutlu_C2.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,240.29,15.19,9.639812,0.018311,352
+G03_D05_K_29_Ofkeli_C3.wav,D05,K,29,Ofkeli,3,Samsung A55,ev,,Dataset\GRUP_03\G03_D05_K_29_Ofkeli_C3.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,256.89,45.62,20.713783,0.023651,158
+G03_D05_K_29_Saskin_C5.wav,D05,K,29,Saskin,5,Samsung A55,ev,,Dataset\GRUP_03\G03_D05_K_29_Saskin_C5.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,272.05,36.52,5.394165,0.02183,282
+G03_D06_K_48_Mutlu_C2.wav,D06,K,48,Mutlu,2,iPhone 16 Pro Max,ev,,Dataset\GRUP_03\G03_D06_K_48_Mutlu_C2.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,259.99,30.69,5.229652,0.029097,263
+G03_D06_K_48_Notr_C1.wav,D06,K,48,Notr,1,iPhone 16 Pro Max,ev,,Dataset\GRUP_03\G03_D06_K_48_Notr_C1.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,194.84,20.42,2.91097,0.025132,105
+G03_D06_K_48_Ofkeli_C3.wav,D06,K,48,Ofkeli,3,iPhone 16 Pro Max,ev,,Dataset\GRUP_03\G03_D06_K_48_Ofkeli_C3.wav,Dataset\GRUP_03\Grup_03_MetaVeri.xlsx,GRUP_03,290.57,50.18,20.568939,0.033053,172
+G04_D02_K_21_Ofkeli_C3.wav,2,K,21,Ofkeli,3,iPhone 17,Kafe,,Dataset\GRUP_04\G04_D02_K_21_Ofkeli_C3.wav,Dataset\GRUP_04\Grup_04_MetaVeri.xlsx,GRUP_04,271.83,37.71,53.254784,0.026832,188
+G04_D02_K_21_Saskin_C5.wav,2,K,21,Saskin,5,iPhone 17,Kafe,,Dataset\GRUP_04\G04_D02_K_21_Saskin_C5.wav,Dataset\GRUP_04\Grup_04_MetaVeri.xlsx,GRUP_04,292.35,59.79,34.127716,0.04209,150
+G04_D02_K_21_Uzgun_C4.wav,2,K,21,Uzgun,4,iPhone 17,Kafe,,Dataset\GRUP_04\G04_D02_K_21_Uzgun_C4.wav,Dataset\GRUP_04\Grup_04_MetaVeri.xlsx,GRUP_04,193.42,28.86,26.730301,0.031977,222
+G04_D03_K_21_Mutlu_C2.wav,3,K,21,Mutlu,2,iPhone 14,Kafe,,Dataset\GRUP_04\G04_D03_K_21_Mutlu_C2.wav,Dataset\GRUP_04\Grup_04_MetaVeri.xlsx,GRUP_04,243.73,25.33,39.703892,0.032137,199
+G04_D03_K_21_Notr_C1.wav,3,K,21,Notr,1,iPhone 14,Kafe,,Dataset\GRUP_04\G04_D03_K_21_Notr_C1.wav,Dataset\GRUP_04\Grup_04_MetaVeri.xlsx,GRUP_04,225.16,29.2,33.146084,0.029038,87
+G04_D03_K_21_Ofkeli_C3.wav,3,K,21,Ofkeli,3,iPhone 14,Kafe,,Dataset\GRUP_04\G04_D03_K_21_Ofkeli_C3.wav,Dataset\GRUP_04\Grup_04_MetaVeri.xlsx,GRUP_04,258.92,27.7,42.926468,0.028672,129
+G04_D04_E_13_Mutlu_C2.wav,4,E,13,Mutlu,2,iPhone 16 Pro,Ev,,Dataset\GRUP_04\G04_D04_E_13_Mutlu_C2.wav,Dataset\GRUP_04\Grup_04_MetaVeri.xlsx,GRUP_04,230.49,49.36,49.084171,0.057239,167
+G04_D04_E_13_Uzgun_C4.wav,4,E,13,Uzgun,4,iPhone 16 Pro,Ev,,Dataset\GRUP_04\G04_D04_E_13_Uzgun_C4.wav,Dataset\GRUP_04\Grup_04_MetaVeri.xlsx,GRUP_04,239.58,36.57,48.66436,0.053285,100
+G04_D05_E_21_Uzgun_C4.wav,5,E,21,Uzgun,4,iPhone 16 Pro,Ev,,Dataset\GRUP_04\G04_D05_E_21_Uzgun_C4.wav,Dataset\GRUP_04\Grup_04_MetaVeri.xlsx,GRUP_04,133.24,40.52,6.963834,0.020459,185
+G05_D01_C_09_Saskin_C5.wav,D01,C,9,Saskin,5,Samsung Galaxy S24 FE,ev,,Dataset\GRUP_05\G05_D01_C_09_Saskin_C5.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,343.43,73.75,47.902821,0.047126,165
+G05_D01_C_09_Notr_C1.wav,D01,C,9,Notr,1,Samsung Galaxy S24 FE,ev,,Dataset\GRUP_05\G05_D01_C_09_Notr_C1.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,333.18,35.29,40.558521,0.049421,136
+G05_D01_C_09_Ofkeli_C3.wav,D01,C,9,Ofkeli,3,Samsung Galaxy S24 FE,ev,,Dataset\GRUP_05\G05_D01_C_09_Ofkeli_C3.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,292.45,44.52,102.89534,0.05246,125
+G05_D02_C_09_Saskin_C5.wav,D02,C,9,Saskin,5,Samsung Galaxy S24 FE,ev,,Dataset\GRUP_05\G05_D02_C_09_Saskin_C5.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,372.25,67.73,26.52935,0.034438,126
+G05_D02_C_09_Ofkeli_C3.wav,D02,C,9,Ofkeli,3,Samsung Galaxy S24 FE,ev,,Dataset\GRUP_05\G05_D02_C_09_Ofkeli_C3.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,354.14,61.14,110.682198,0.053645,147
+G05_D02_C_09_Notr_C1.wav,D02,C,9,Notr,1,Samsung Galaxy S24 FE,ev,,Dataset\GRUP_05\G05_D02_C_09_Notr_C1.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,329.31,48.46,18.281542,0.034505,291
+G05_D03_K_19_Mutlu_C2.wav,D03,K,19,Mutlu,2,Iphone 16 pro max,ev,,Dataset\GRUP_05\G05_D03_K_19_Mutlu_C2.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,282.67,18.37,63.972553,0.022261,108
+G05_D03_K_19_Ofkeli_C3.wav,D03,K,19,Ofkeli,3,Iphone 16 pro max,ev,,Dataset\GRUP_05\G05_D03_K_19_Ofkeli_C3.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,276.0,47.22,87.521118,0.020847,118
+G05_D03_K_19_Saskin_C5.wav,D03,K,19,Saskin,5,Iphone 16 pro max,ev,,Dataset\GRUP_05\G05_D03_K_19_Saskin_C5.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,277.26,38.73,38.044502,0.030749,69
+G05_D04_K_25_Mutlu_C2.wav,D04,K,25,Mutlu,2,Iphone 16 pro max,ev,,Dataset\GRUP_05\G05_D04_K_25_Mutlu_C2.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,249.35,21.37,20.438194,0.018875,246
+G05_D04_K_25_Ofkeli_C3.wav,D04,K,25,Ofkeli,3,Iphone 16 pro max,ev,,Dataset\GRUP_05\G05_D04_K_25_Ofkeli_C3.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,247.54,27.82,39.01086,0.019298,197
+G05_D04_K_25_Uzgun_C4.wav,D04,K,25,Uzgun,4,Iphone 16 pro max,ev,,Dataset\GRUP_05\G05_D04_K_25_Uzgun_C4.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,229.97,17.25,12.502393,0.016588,158
+G05_D05_E_20_Mutlu_C2.wav,D05,E,20,Mutlu,2,Iphone 15 pro,ev,,Dataset\GRUP_05\G05_D05_E_20_Mutlu_C2.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,156.19,20.66,80.837769,0.010921,86
+G05_D05_E_20_Ofkeli_C3.wav,D05,E,20,Ofkeli,3,Iphone 15 pro,ev,,Dataset\GRUP_05\G05_D05_E_20_Ofkeli_C3.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,139.8,6.58,57.874794,0.01149,99
+G05_D05_E_20_Notr_C1.wav,D05,E,20,Notr,1,Iphone 15 pro,ev,,Dataset\GRUP_05\G05_D05_E_20_Notr_C1.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,125.07,10.75,30.973995,0.007191,235
+G05_D06_E_20_Uzgun_C4.wav,D06,E,20,Uzgun,4,Iphone 15 pro,ev,,Dataset\GRUP_05\G05_D06_E_20_Uzgun_C4.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,109.34,40.81,34.908833,0.015404,134
+G05_D06_E_20_Ofkeli_C3.wav,D06,E,20,Ofkeli,3,Iphone 15 pro,ev,,Dataset\GRUP_05\G05_D06_E_20_Ofkeli_C3.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,120.13,61.84,35.569283,0.017438,161
+G05_D06_E_20_Notr_C1.wav,D06,E,20,Notr,1,Iphone 15 pro,ev,,Dataset\GRUP_05\G05_D06_E_20_Notr_C1.wav,Dataset\GRUP_05\Grup_05_MetaVeri.xlsx,GRUP_05,138.49,84.8,63.34296,0.017324,52
+G06_D01_E_21_Notr_C1.wav,D01,E,21,Notr,1,,,Orta,Dataset\GRUP_06\G06_D01_E_21_Notr_C1.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,121.12,58.11,7.802806,0.028337,237
+G06_D01_E_21_Mutlu_C2.wav,D01,E,21,Mutlu,2,,,Orta,Dataset\GRUP_06\G06_D01_E_21_Mutlu_C2.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,127.02,40.12,12.285048,0.025935,238
+G06_D01_E_21_Saskin_C5.wav,D01,E,21,Saskin,5,,,Orta,Dataset\GRUP_06\G06_D01_E_21_Saskin_C5.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,157.1,75.45,10.891029,0.035661,273
+G06_D02_E_21_Notr_C1.wav,D02,E,21,Notr,1,,,Düşük,Dataset\GRUP_06\G06_D02_E_21_Notr_C1.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,176.88,67.8,24.293823,0.029248,220
+G06_D02_E_21_Mutlu_C2.wav,D02,E,21,Mutlu,2,,,Düşük,Dataset\GRUP_06\G06_D02_E_21_Mutlu_C2.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,182.82,34.19,32.355164,0.027943,261
+G06_D02_E_21_Ofkeli_C3.wav,D02,E,21,Ofkeli,3,,,Düşük,Dataset\GRUP_06\G06_D02_E_21_Ofkeli_C3.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,174.64,31.94,29.872929,0.03015,235
+G06_D03_K_25_Notr_C1.wav,D03,K,25,Notr,1,,,Düşük,Dataset\GRUP_06\G06_D03_K_25_Notr_C1.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,236.83,12.14,12.695018,0.028677,252
+G06_D03_K_25_Mutlu_C2.wav,D03,K,25,Mutlu,2,,,Düşük,Dataset\GRUP_06\G06_D03_K_25_Mutlu_C2.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,290.82,26.13,39.692135,0.025368,204
+G06_D04_E_22_Notr_C1.wav,D04,E,22,Notr,1,,,Düşük,Dataset\GRUP_06\G06_D04_E_22_Notr_C1.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,143.91,45.52,30.609125,0.022602,204
+G06_D04_E_22_Mutlu_C2.wav,D04,E,22,Mutlu,2,,,Düşük,Dataset\GRUP_06\G06_D04_E_22_Mutlu_C2.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,192.36,51.03,43.609661,0.024441,271
+G06_D04_E_22_Ofkeli_C3.wav,D04,E,22,Ofkeli,3,,,Düşük,Dataset\GRUP_06\G06_D04_E_22_Ofkeli_C3.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,216.17,47.03,57.947884,0.026267,259
+G06_D05_C_10_Notr_C1.wav,D05,C,10,Notr,1,,,Düşük,Dataset\GRUP_06\G06_D05_C_10_Notr_C1.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,262.83,40.25,35.727734,0.036111,87
+G06_D05_C_10_Ofkeli_C3.wav,D05,C,10,Ofkeli,3,,,Düşük,Dataset\GRUP_06\G06_D05_C_10_Ofkeli_C3.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,267.1,44.01,17.772938,0.024457,207
+G06_D05_C_10_Uzgun_C4.wav,D05,C,10,Uzgun,4,,,Düşük,Dataset\GRUP_06\G06_D05_C_10_Uzgun_C4.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,266.44,47.84,14.811413,0.026101,190
+G06_D06_E_20_Notr_C1.wav,D06,E,20,Notr,1,,,Düşük,Dataset\GRUP_06\G06_D06_E_20_Notr_C1.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,149.62,15.45,4.583992,0.019289,170
+G06_D06_E_20_Ofkeli_C3.wav,D06,E,20,Ofkeli,3,,,Düşük,Dataset\GRUP_06\G06_D06_E_20_Ofkeli_C3.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,194.25,32.57,21.781544,0.021675,199
+G06_D06_E_20_Uzgun_C4.wav,D06,E,20,Uzgun,4,,,Düşük,Dataset\GRUP_06\G06_D06_E_20_Uzgun_C4.wav,Dataset\GRUP_06\Grup_06_MetaVeri.xlsx,GRUP_06,148.15,12.05,3.631352,0.019406,174
+G07_D01_K_22_Şaşkın_C5.wav,D01,K,22,Şaşkın,5,Iphone 14,ev,,Dataset\GRUP_07\G07_D01_K_22_Şaşkın_C5.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,323.82,20.93,41.003319,0.028045,223
+G07_D01_K_22_Öfkeli_C3.wav,D01,K,22,Öfkeli,3,Iphone 14,ev,,Dataset\GRUP_07\G07_D01_K_22_Öfkeli_C3.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,315.62,29.29,48.603546,0.028754,202
+G07_D01_K_22_Nötr_C1.wav,D01,K,22,Nötr,1,Iphone 14,ev,,Dataset\GRUP_07\G07_D01_K_22_Nötr_C1.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,271.43,13.05,24.9995,0.037305,164
+G07_D02_E_22_Mutlu_C2.wav,D02,E,22,Mutlu,2,Iphone 10,ev,,Dataset\GRUP_07\G07_D02_E_22_Mutlu_C2.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,112.43,30.33,14.481525,0.021745,217
+G07_D02_E_22_Nötr_C1.wav,D02,E,22,Nötr,1,Iphone 10,ev,,Dataset\GRUP_07\G07_D02_E_22_Nötr_C1.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,106.06,13.76,3.061061,0.023877,189
+G07_D02_E_22_Şaşkın_C5.wav,D02,E,22,Şaşkın,5,Iphone 10,ev,,Dataset\GRUP_07\G07_D02_E_22_Şaşkın_C5.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,123.87,19.66,28.716883,0.020179,122
+G07_D03_C_14_Mutlu_C2.wav,D03,C,14,Mutlu,2,Iphone 15,ev,,Dataset\GRUP_07\G07_D03_C_14_Mutlu_C2.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,339.01,51.29,17.404013,0.053889,179
+G07_D03_C_14_Saskin_C5.wav,D03,C,14,Saskin,5,Iphone 15,ev,,Dataset\GRUP_07\G07_D03_C_14_Saskin_C5.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,378.92,46.95,42.397861,0.058033,42
+G07_D03_C_14_Uzgun_C4.wav,D03,C,14,Uzgun,4,Iphone 15,ev,,Dataset\GRUP_07\G07_D03_C_14_Uzgun_C4.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,296.36,67.56,15.990184,0.04482,240
+G07_D04_K_42_Mutlu_C2.wav,D04,K,42,Mutlu,2,Iphone 13,ev,,Dataset\GRUP_07\G07_D04_K_42_Mutlu_C2.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,338.91,40.81,45.827454,0.033046,245
+G07_D04_K_42_Notr_C1.wav,D04,K,42,Notr,1,Iphone 13,ev,,Dataset\GRUP_07\G07_D04_K_42_Notr_C1.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,188.33,10.89,31.007143,0.037108,140
+G07_D04_K_42_Ofkeli_C3.wav,D04,K,42,Ofkeli,3,Iphone 13,ev,,Dataset\GRUP_07\G07_D04_K_42_Ofkeli_C3.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,328.17,57.68,39.144989,0.035225,242
+G07_D05_C_11_Notr_C1.wav,D05,C,11,Notr,1,redmi note 14 pro +,ev,,Dataset\GRUP_07\G07_D05_C_11_Notr_C1.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,275.7,42.79,17.639673,0.038754,205
+G07_D05_C_11_Mutlu_C2.wav,D05,C,11,Mutlu,2,redmi note 14 pro +,ev,,Dataset\GRUP_07\G07_D05_C_11_Mutlu_C2.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,369.65,85.69,50.413982,0.037542,218
+G07_D05_C_11_Uzgun_C4.wav,D05,C,11,Uzgun,4,redmi note 14 pro +,ev,,Dataset\GRUP_07\G07_D05_C_11_Uzgun_C4.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,307.92,35.6,43.137844,0.028773,137
+G07_D06_E_20_Saskin_C5.wav,D06,E,20,Saskin,5,redmi note 14 pro +,ev,,Dataset\GRUP_07\G07_D06_E_20_Saskin_C5.wav,Dataset\GRUP_07\Grup_07_MetaVeri.xlsx,GRUP_07,181.0,17.36,35.861912,0.027223,156
+G08_D01_K_20_Notr_C1,D01,K,20,Notr,1,Android telefon,kafe,yuksek,Dataset\GRUP_08\G08_D01_K_20_Notr_C1.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,218.96,43.54,4.890998,0.021014,175
+G08_D01_K_20_Mutlu_C2,D01,K,20,Mutlu,2,Android telefon,kafe,yuksek,Dataset\GRUP_08\G08_D01_K_20_Mutlu_C2.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,315.24,70.49,10.114603,0.02372,183
+G08_D01_K_20_Saskin_C5,D01,K,20,Saskin,5,Android telefon,kafe,yuksek,Dataset\GRUP_08\G08_D01_K_20_Saskin_C5.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,308.91,96.44,3.333837,0.020062,176
+G08_D02_E_20_Notr_C1,D02,E,20,Notr,1,Android telefon,kafe,orta,Dataset\GRUP_08\G08_D02_E_20_Notr_C1.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,117.27,17.52,10.937381,0.015006,205
+G08_D02_E_20_Mutlu_C2,D02,E,20,Mutlu,2,Android telefon,kafe,orta,Dataset\GRUP_08\G08_D02_E_20_Mutlu_C2.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,177.18,18.1,23.340166,0.014689,217
+G08_D02_E_20_Ofkeli_C3,D02,E,20,Ofkeli,3,Android telefon,kafe,orta,Dataset\GRUP_08\G08_D02_E_20_Ofkeli_C3.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,144.45,21.87,71.030045,0.01122,138
+G08_D03_K_19_Notr_C1,D03,K,19,Notr,1,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D03_K_19_Notr_C1.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,195.16,16.47,16.370132,0.015118,212
+G08_D03_K_19_Ofkeli_C3,D03,K,19,Ofkeli,3,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D03_K_19_Ofkeli_C3.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,220.71,23.25,40.698967,0.01543,275
+G08_D03_K_19_Saskin_C5,D03,K,19,Saskin,5,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D03_K_19_Saskin_C5.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,250.09,17.28,28.14242,0.018992,207
+G08_D04_C_15_Notr_C1,D04,C,15,Notr,1,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D04_C_15_Notr_C1.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,265.24,36.38,113.675102,0.018033,75
+G08_D04_C_15_Mutlu_C2,D04,C,15,Mutlu,2,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D04_C_15_Mutlu_C2.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,271.69,22.44,73.913368,0.015264,145
+G08_D04_C_15_Uzgun_C4,D04,C,15,Uzgun,4,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D04_C_15_Uzgun_C4.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,246.04,20.87,116.109055,0.014954,91
+G08_D05_E_21_Notr_C1,D05,E,21,Notr,1,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D05_E_21_Notr_C1.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,135.09,20.72,35.825577,0.017382,141
+G08_D05_E_21_Ofkeli_C3,D05,E,21,Ofkeli,3,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D05_E_21_Ofkeli_C3.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,142.29,11.22,27.537405,0.018672,160
+G08_D05_E_21_Uzgun_C4,D05,E,21,Uzgun,4,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D05_E_21_Uzgun_C4.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,130.96,41.1,29.533884,0.012258,165
+G08_D06_C_7_Notr_C1,D06,C,7,Notr,1,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D06_C_7_Notr_C1.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,356.73,47.0,39.741165,0.037336,396
+G08_D06_C_7_Mutlu_C2,D06,C,7,Mutlu,2,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D06_C_7_Mutlu_C2.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,355.09,39.77,42.482479,0.032817,418
+G08_D06_C_7_Saskin_C5,D06,C,7,Saskin,5,iPhone 11,ev,dusuk,Dataset\GRUP_08\G08_D06_C_7_Saskin_C5.wav,Dataset\GRUP_08\Grup_08_MetaVeri.xlsx,GRUP_08,360.69,54.1,69.94886,0.030357,264
+G09_D01_E_19_Mutlu_C2.wav,D01,E,19,Mutlu,2,Razer Seiren V3 Mini,ev,düşük,Dataset\GRUP_09\G09_D01_E_19_Mutlu_C2.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,139.45,50.77,12.462281,0.027724,214
+G09_D01_E_19_Notr_C1.wav,D01,E,19,Notr,1,Razer Seiren V3 Mini,ev,düşük,Dataset\GRUP_09\G09_D01_E_19_Notr_C1.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,130.2,48.45,7.453331,0.022296,156
+G09_D01_E_19_Ofkeli_C3.wav,D01,E,19,Ofkeli,3,Razer Seiren V3 Mini,ev,düşük,Dataset\GRUP_09\G09_D01_E_19_Ofkeli_C3.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,125.28,26.48,13.7866,0.028462,211
+G09_D02_E_19_Mutlu_C2.wav,D02,E,19,Mutlu,2,Realme 6,ev,düşük,Dataset\GRUP_09\G09_D02_E_19_Mutlu_C2.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,166.33,20.75,32.56414,0.020437,165
+G09_D02_E_19_Notr_C1.wav,D02,E,19,Notr,1,Realme 6,ev,düşük,Dataset\GRUP_09\G09_D02_E_19_Notr_C1.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,143.78,22.97,19.800594,0.024228,186
+G09_D02_E_19_Ofkeli_C3.wav,D02,E,19,Ofkeli,3,Realme 6,ev,düşük,Dataset\GRUP_09\G09_D02_E_19_Ofkeli_C3.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,160.93,29.15,48.080833,0.019446,226
+G09_D03_K_50_Notr_C1.wav,D03,K,50,Notr,1,Redmi Note 9,ev,düşük,Dataset\GRUP_09\G09_D03_K_50_Notr_C1.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,204.49,29.69,0.950568,0.017516,160
+G09_D03_K_50_Saskin_C5.wav,D03,K,50,Saskin,5,Redmi Note 9,ev,düşük,Dataset\GRUP_09\G09_D03_K_50_Saskin_C5.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,317.13,39.71,6.19761,0.016486,189
+G09_D03_K_50_Uzgun_C4.wav,D03,K,50,Uzgun,4,Redmi Note 9,ev,düşük,Dataset\GRUP_09\G09_D03_K_50_Uzgun_C4.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,207.9,51.7,0.443854,0.015944,189
+G09_D04_K_25_Notr_C1.wav,D04,K,25,Notr,1,iPhone 11,ev,düşük,Dataset\GRUP_09\G09_D04_K_25_Notr_C1.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,250.72,42.76,29.879354,0.026788,131
+G09_D04_K_25_Ofkeli_C3.wav,D04,K,25,Ofkeli,3,iPhone 11,ev,düşük,Dataset\GRUP_09\G09_D04_K_25_Ofkeli_C3.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,298.88,41.41,73.370499,0.034407,104
+G09_D04_K_25_Saskin_C5.wav,D04,K,25,Saskin,5,iPhone 11,ev,düşük,Dataset\GRUP_09\G09_D04_K_25_Saskin_C5.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,354.06,68.73,59.44001,0.036667,58
+G09_D05_C_15_Mutlu_C2.wav,D05,C,15,Mutlu,2,Razer Seiren V3 Mini,ev,düşük,Dataset\GRUP_09\G09_D05_C_15_Mutlu_C2.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,268.05,18.08,3.370447,0.033666,170
+G09_D05_C_15_Notr_C1.wav,D05,C,15,Notr,1,Razer Seiren V3 Mini,ev,düşük,Dataset\GRUP_09\G09_D05_C_15_Notr_C1.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,254.36,66.51,0.889142,0.033666,200
+G09_D05_C_15_Ofkeli_C3.wav,D05,C,15,Ofkeli,3,Razer Seiren V3 Mini,ev,düşük,Dataset\GRUP_09\G09_D05_C_15_Ofkeli_C3.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,282.04,27.46,13.412865,0.030731,119
+G09_D06_C_12_Mutlu_C2.wav,D06,C,12,Mutlu,2,Redmi Note 9,ev,düşük,Dataset\GRUP_09\G09_D06_C_12_Mutlu_C2.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,347.26,48.59,1.401389,0.025949,187
+G09_D06_C_12_Notr_C1.wav,D06,C,12,Notr,1,Redmi Note 9,ev,düşük,Dataset\GRUP_09\G09_D06_C_12_Notr_C1.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,239.76,20.97,0.629275,0.025904,142
+G09_D06_C_12_Ofkeli_C3.wav,D06,C,12,Ofkeli,3,Redmi Note 9,ev,düşük,Dataset\GRUP_09\G09_D06_C_12_Ofkeli_C3.wav,Dataset\GRUP_09\Grup_09_MetaVeri.xlsx,GRUP_09,322.38,42.26,14.246451,0.031523,162
+G10_D01_C_7_Notr_C1.wav,D01,C,7,Notr,1,iPhone 15,Ev,Dusuk,Dataset\GRUP_10\G10_D01_C_7_Notr_C1.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,353.28,58.36,59.28389,0.045446,74
+G10_D01_C_7_Mutlu_C2.wav,D01,C,7,Mutlu,2,iPhone 15,Ev,Dusuk,Dataset\GRUP_10\G10_D01_C_7_Mutlu_C2.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,316.97,72.5,45.732166,0.072691,190
+G10_D01_C_7_Ofkeli_C3.wav,D01,C,7,Ofkeli,3,iPhone 15,Ev,Dusuk,Dataset\GRUP_10\G10_D01_C_7_Ofkeli_C3.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,300.55,49.89,46.784557,0.073027,122
+G10_D02_C_16_Mutlu_C2.wav,D02,C,16,Mutlu,2,iPhone 16 pro max,Ev,Dusuk,Dataset\GRUP_10\G10_D02_C_16_Mutlu_C2.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,310.37,51.93,25.492828,0.036526,175
+G10_D02_C_16_Ofkeli_C3.wav,D02,C,16,Ofkeli,3,iPhone 16 pro max,Ev,Dusuk,Dataset\GRUP_10\G10_D02_C_16_Ofkeli_C3.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,328.1,40.11,47.938713,0.029393,115
+G10_D02_C_16_Saskin_C5.wav,D02,C,16,Saskin,5,iPhone 16 pro max,Ev,Dusuk,Dataset\GRUP_10\G10_D02_C_16_Saskin_C5.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,322.28,46.47,27.250166,0.045024,125
+G10_D03_E_23_Notr_C1.wav,D03,E,23,Notr,1,iPhone 16 pro max,Ev,Dusuk,Dataset\GRUP_10\G10_D03_E_23_Notr_C1.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,121.14,85.7,23.08927,0.025163,96
+G10_D03_E_23_Mutlu_C2.wav,D03,E,23,Mutlu,2,iPhone 16 pro max,Ev,Dusuk,Dataset\GRUP_10\G10_D03_E_23_Mutlu_C2.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,186.47,40.46,28.672634,0.031665,133
+G10_D03_E_23_Ofkeli_C3.wav,D03,E,23,Ofkeli,3,iPhone 16 pro max,Ev,Dusuk,Dataset\GRUP_10\G10_D03_E_23_Ofkeli_C3.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,142.03,19.45,29.769844,0.034145,145
+G10_D04_E_24_Notr_C1.wav,D04,E,24,Notr,1,iPhone 16 pro max,Ev,Dusuk,Dataset\GRUP_10\G10_D04_E_24_Notr_C1.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,185.36,24.13,42.636299,0.026479,100
+G10_D04_E_24_Mutlu_C2.wav,D04,E,24,Mutlu,2,iPhone 16 pro max,Ev,Dusuk,Dataset\GRUP_10\G10_D04_E_24_Mutlu_C2.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,279.3,54.42,27.581999,0.025025,116
+G10_D04_E_24_Ofkeli_C3.wav,D04,E,24,Ofkeli,3,iPhone 16 pro max,Ev,Dusuk,Dataset\GRUP_10\G10_D04_E_24_Ofkeli_C3.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,253.53,41.93,34.371017,0.029776,123
+G10_D05_K_26_Notr_C1.wav,D05,K,26,Notr,1,iPhone 15,Ev,Dusuk,Dataset\GRUP_10\G10_D05_K_26_Notr_C1.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,193.97,20.8,34.177948,0.036807,73
+G10_D05_K_26_Ofkeli_C3.wav,D05,K,26,Ofkeli,3,iPhone 15,Ev,Dusuk,Dataset\GRUP_10\G10_D05_K_26_Ofkeli_C3.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,315.68,55.92,44.613365,0.051014,152
+G10_D05_K_26_Uzgun_C4.wav,D05,K,26,Uzgun,4,iPhone 15,Ev,Dusuk,Dataset\GRUP_10\G10_D05_K_26_Uzgun_C4.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,215.35,25.23,30.864676,0.03553,117
+G10_D06_K_27_Notr_C1.wav,D06,K,27,Notr,1,iPhone 15,Ev,Dusuk,Dataset\GRUP_10\G10_D06_K_27_Notr_C1.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,211.72,15.8,31.117811,0.035885,111
+G10_D06_K_27_Mutlu_C2.wav,D06,K,27,Mutlu,2,iPhone 15,Ev,Dusuk,Dataset\GRUP_10\G10_D06_K_27_Mutlu_C2.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,345.05,41.74,42.352367,0.042433,134
+G10_D06_K_27_Ofkeli_C3.wav,D06,K,27,Ofkeli,3,iPhone 15,Ev,Dusuk,Dataset\GRUP_10\G10_D06_K_27_Ofkeli_C3.wav,Dataset\GRUP_10\Grup_10_MetaVeri.xlsx,GRUP_10,321.75,66.69,49.599339,0.055361,136
+G11_D01_K_48_Ofkeli_C3.wav,D01,K,48,Ofkeli,3,iPhone 16,ev,,Dataset\GRUP_11\G11_D01_K_48_Ofkeli_C3.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,320.32,70.65,56.084515,0.03341,104
+G11_D01_K_48_Saskin_C5.wav,D01,K,48,Saskin,5,iPhone 16,ev,,Dataset\GRUP_11\G11_D01_K_48_Saskin_C5.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,245.8,31.29,150.119919,0.012654,290
+G11_D01_K_48_Uzgun_C4.wav,D01,K,48,Uzgun,4,iPhone 16,ev,,Dataset\GRUP_11\G11_D01_K_48_Uzgun_C4.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,210.05,17.03,92.219444,0.009776,77
+G11_D02_K_22_Mutlu_C2.wav,D02,K,22,Mutlu,2,iPhone 16,ev,,Dataset\GRUP_11\G11_D02_K_22_Mutlu_C2.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,224.35,23.85,49.968761,0.019694,262
+G11_D02_K_22_Notr_C1.wav,D02,K,22,Notr,1,iPhone 16,ev,,Dataset\GRUP_11\G11_D02_K_22_Notr_C1.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,191.46,24.65,71.811272,0.015695,191
+G11_D02_K_22_Saskin_C5.wav,D02,K,22,Saskin,5,iPhone 16,ev,,Dataset\GRUP_11\G11_D02_K_22_Saskin_C5.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,238.49,32.44,76.659561,0.021266,255
+G11_D03_E_20_Saskin_C5.wav,D03,E,20,Saskin,5,iPhone 16,ev,,Dataset\GRUP_11\G11_D03_E_20_Saskin_C5.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,190.04,27.95,63.270504,0.027458,189
+G11_D03_E_20_Notr_C1.wav,D03,E,20,Notr,1,iPhone 16,ev,,Dataset\GRUP_11\G11_D03_E_20_Notr_C1.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,114.09,40.24,55.376183,0.025712,203
+G11_D03_E_20_Ofkeli_C3.wav,D03,E,20,Ofkeli,3,iPhone 16,ev,,Dataset\GRUP_11\G11_D03_E_20_Ofkeli_C3.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,212.38,29.15,52.534691,0.02165,162
+G11_D04_E_52_Notr_C1.wav,D04,E,52,Notr,1,Samsung A25,ev,,Dataset\GRUP_11\G11_D04_E_52_Notr_C1.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,163.78,49.36,40.455521,0.01937,168
+G11_D04_E_52_Ofkeli_C3.wav,D04,E,52,Ofkeli,3,Samsung A25,ev,,Dataset\GRUP_11\G11_D04_E_52_Ofkeli_C3.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,172.27,31.99,37.313305,0.021658,181
+G11_D04_E_52_Uzgun_C4.wav,D04,E,52,Uzgun,4,Samsung A25,ev,,Dataset\GRUP_11\G11_D04_E_52_Uzgun_C4.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,155.32,25.31,34.977173,0.019398,154
+G11_D05_C_10_Ofkeli_C3.wav,D05,C,10,Ofkeli,3,Samsung A25,ev,,Dataset\GRUP_11\G11_D05_C_10_Ofkeli_C3.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,340.9,41.35,66.246666,0.032573,134
+G11_D05_C_10_Saskin_C5.wav,D05,C,10,Saskin,5,Samsung A25,ev,,Dataset\GRUP_11\G11_D05_C_10_Saskin_C5.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,354.81,29.34,57.74358,0.035489,101
+G11_D05_C_10_Mutlu_C2.wav,D05,C,10,Mutlu,2,Samsung A25,ev,,Dataset\GRUP_11\G11_D05_C_10_Mutlu_C2.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,319.71,26.77,55.044941,0.029567,206
+G11_D06_C_15_Ofkeli_C3.wav,D06,C,15,Ofkeli,3,Samsung A25,ev,,Dataset\GRUP_11\G11_D06_C_15_Ofkeli_C3.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,321.97,32.33,61.187641,0.030471,152
+G11_D06_C_15_Saskin_C5.wav,D06,C,15,Saskin,5,Samsung A25,ev,,Dataset\GRUP_11\G11_D06_C_15_Saskin_C5.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,342.32,60.66,52.333405,0.040441,106
+G11_D06_C_15_Uzgun_C4.wav,D06,C,15,Uzgun,4,Samsung A25,ev,,Dataset\GRUP_11\G11_D06_C_15_Uzgun_C4.wav,Dataset\GRUP_11\Grup_11_MetaVeri.xlsx,GRUP_11,231.01,14.41,104.776726,0.017109,137
+G12_D03_E_20_Mutlu_C2,D03,E,20,Mutlu,2,Telefon,oda,dusuk,Dataset\Grup_12\G12_D03_E_20_Mutlu_C2.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,203.52,14.72,42.918442,0.017271,211
+G12_D03_E_20_Ofkeli_C3.wav,D03,E,20,Ofkeli,3,Telefon,ev,dusuk,Dataset\Grup_12\G12_D03_E_20_Ofkeli_C3.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,190.53,15.22,23.301182,0.025661,140
+G12_D03_E_20_Uzgun_C4,D03,E,20,Uzgun,4,Telefon,oda,dusuk,Dataset\Grup_12\G12_D03_E_20_Uzgun_C4.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,206.14,20.31,38.08791,0.014738,182
+G12_D04_E_8_Notr_C1,D04,E,8,Notr,1,Telefon,ev,dusuk,Dataset\Grup_12\G12_D04_E_8_Notr_C1.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,344.04,34.07,30.390696,0.039783,207
+G12_D04_E_8_Mutlu_C2,D04,E,8,Mutlu,2,Telefon,ev,dusuk,Dataset\Grup_12\G12_D04_E_8_Mutlu_C2.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,378.59,69.18,35.750633,0.049835,220
+G12_D05_E_8_Saskın_C5,D05,E,8,Şaşkın,5,Telefon,ev,dusuk,Dataset\Grup_12\G12_D05_E_8_Saskın_C5.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,370.31,72.18,58.252392,0.041237,133
+G12_D06_K_8_Nötr_C1,D06,K,8,Notr,1,Telefon,ev,dusuk,Dataset\Grup_12\G12_D06_K_8_Notr_C1.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,355.76,45.01,58.38995,0.05561,110
+G12_D07_E_20_Notr_C1,D07,E,20,Notr,1,Telefon,ev,dusuk,Dataset\Grup_12\G12_D07_E_20_Notr_C1.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,163.46,63.41,17.524849,0.052087,35
+G12_D07_E_20_Mutlu_C2,D07,E,20,Mutlu,2,Telefon,ev,dusuk,Dataset\Grup_12\G12_D07_E_20_Mutlu_C2.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,164.26,45.24,34.340748,0.053512,66
+G12_D07_E_20_Saskın_C5,D07,E,20,Şaşkın,5,Telefon,ev,dusuk,Dataset\Grup_12\G12_D07_E_20_Saskın_C5.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,185.01,30.0,18.865131,0.038939,101
+G12_D08_E_13_Notr_C1,D08,E,13,Notr,1,Macbook,ev,dusuk,Dataset\Grup_12\G12_D08_E_13_Notr_C1.wav,Dataset\Grup_12\Grup_12_MetaVeri.xlsx,Grup_12,209.71,75.03,35.977459,0.039934,135
+G13_D01_C_10_Mutlu_C2.wav,D01,C,10,Mutlu,2,iPhone 15,,,Dataset\GRUP_13\G13_D01_C_10_Mutlu_C2.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,268.84,53.42,15.189948,0.038915,126
+G13_D01_C_10_Notr_C1.wav,D01,C,10,Notr,1,iPhone 15,,,Dataset\GRUP_13\G13_D01_C_10_Notr_C1.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,335.14,47.91,11.295461,0.045597,67
+G13_D01_C_10_Ofkeli_C3.wav,D01,C,10,Ofkeli,3,iPhone 15,,,Dataset\GRUP_13\G13_D01_C_10_Ofkeli_C3.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,386.37,67.89,25.527302,0.039352,63
+G13_D02_E_42_Mutlu_C2.wav,D02,E,42,Mutlu,2,iPhone 15,,,Dataset\GRUP_13\G13_D02_E_42_Mutlu_C2.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,155.59,47.16,20.105173,0.018632,176
+G13_D02_E_42_Notr_C1.wav,D02,E,42,Notr,1,iPhone 15,,,Dataset\GRUP_13\G13_D02_E_42_Notr_C1.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,139.28,32.91,24.949892,0.021908,83
+G13_D02_E_42_Ofkeli_C3.wav,D02,E,42,Ofkeli,3,iPhone 15,,,Dataset\GRUP_13\G13_D02_E_42_Ofkeli_C3.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,181.23,37.91,39.428547,0.021176,102
+G13_D03_C_11_Mutlu_C2.wav,D03,C,11,Mutlu,2,Samsung A52,,,Dataset\GRUP_13\G13_D03_C_11_Mutlu_C2.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,313.82,56.02,53.94104,0.032738,207
+G13_D03_C_11_Notr_C1.wav,D03,C,11,Notr,1,Samsung A52,,,Dataset\GRUP_13\G13_D03_C_11_Notr_C1.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,249.2,13.55,91.754593,0.02478,26
+G13_D03_C_11_Ofkeli_C3.wav,D03,C,11,Ofkeli,3,Samsung A52,,,Dataset\GRUP_13\G13_D03_C_11_Ofkeli_C3.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,363.6,47.52,108.963547,0.046685,103
+G13_D04_K_45_Notr_C1.wav,D04,K,45,Notr,1,Samsung A52,,,Dataset\GRUP_13\G13_D04_K_45_Notr_C1.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,250.83,41.73,21.477674,0.021374,251
+G13_D04_K_45_Ofkeli_C3.wav,D04,K,45,Ofkeli,3,Samsung A52,,,Dataset\GRUP_13\G13_D04_K_45_Ofkeli_C3.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,294.45,33.67,38.140778,0.023188,255
+G13_D04_K_45_Uzgun_C4.wav,D04,K,45,Uzgun,4,Samsung A52,,,Dataset\GRUP_13\G13_D04_K_45_Uzgun_C4.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,221.02,30.4,19.472387,0.017842,142
+G13_D05_K_48_Notr_C1.wav,D05,K,48,Notr,1,Samsung S24FE,,,Dataset\GRUP_13\G13_D05_K_48_Notr_C1.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,228.44,24.81,16.359449,0.025391,205
+G13_D05_K_48_Ofkeli_C3.wav,D05,K,48,Ofkeli,3,Samsung S24FE,,,Dataset\GRUP_13\G13_D05_K_48_Ofkeli_C3.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,330.22,53.71,64.437752,0.04823,134
+G13_D05_K_48_Saskin_C5.wav,D05,K,48,Saskin,5,Samsung S24FE,,,Dataset\GRUP_13\G13_D05_K_48_Saskin_C5.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,323.47,55.58,44.623035,0.039642,127
+G13_D06_E_47_Notr_C1.wav,D06,E,47,Notr,1,Samsung S24FE,,,Dataset\GRUP_13\G13_D06_E_47_Notr_C1.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,109.98,17.94,12.600894,0.016844,217
+G13_D06_E_47_Ofkeli_C3.wav,D06,E,47,Ofkeli,3,Samsung S24FE,,,Dataset\GRUP_13\G13_D06_E_47_Ofkeli_C3.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,159.49,33.17,45.53307,0.0278,170
+G13_D06_E_47_Saskin_C5.wav,D06,E,47,Saskin,5,Samsung S24FE,,,Dataset\GRUP_13\G13_D06_E_47_Saskin_C5.wav,Dataset\GRUP_13\Grup_13_MetaVeri.xlsx,GRUP_13,144.51,11.93,31.234867,0.022344,170
+G14_D01_C_10_Mutlu_C2,D01,C,10,Mutlu,2,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D01_C_10_Mutlu_C2.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,365.38,52.14,56.907085,0.026327,252
+G14_D01_C_10_Ofkeli_C3,D01,C,10,Ofkeli,3,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D01_C_10_Ofkeli_C3.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,367.74,57.65,84.503517,0.028821,184
+G14_D01_C_10_Saskin_C5,D01,C,10,Saskin,5,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D01_C_10_Saskin_C5.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,394.18,38.0,55.709869,0.040018,80
+G14_D02_E_45_Mutlu_C2,D02,E,45,Mutlu,2,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D02_E_45_Mutlu_C2.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,154.28,27.23,79.652634,0.013624,299
+G14_D02_E_45_Notr_C1,D02,E,45,Notr,1,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D02_E_45_Notr_C1.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,117.62,14.38,87.636101,0.011205,253
+G14_D02_E_45_Saskin_C5,D02,E,45,Saskin,5,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D02_E_45_Saskin_C5.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,195.14,23.72,82.765594,0.013717,259
+G14_D03_K_46_Notr_C1,D03,K,46,Notr,1,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D03_K_46_Notr_C1.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,198.12,26.25,62.298607,0.01438,222
+G14_D03_K_46_Saskin_C5,D03,K,46,Saskin,5,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D03_K_46_Saskin_C5.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,263.18,25.16,66.386795,0.021759,236
+G14_D03_K_46_Uzgun_C4,D03,K,46,Uzgun,4,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D03_K_46_Uzgun_C4.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,200.86,18.94,78.127022,0.015557,194
+G14_D04_E_58_Notr_C1,D04,E,58,Notr,1,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D04_E_58_Notr_C1.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,175.92,19.08,58.200478,0.012791,219
+G14_D04_E_58_Saskin_C5,D04,E,58,Saskin,5,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D04_E_58_Saskin_C5.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,222.36,29.83,105.803986,0.0152,216
+G14_D04_E_58_Uzgun_C4,D04,E,58,Uzgun,4,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D04_E_58_Uzgun_C4.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,171.63,26.3,63.535347,0.016015,179
+G14_D05_K_25_Notr_C1,D05,K,25,Notr,1,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D05_K_25_Notr_C1.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,240.08,29.79,56.706783,0.027487,279
+G14_D05_K_25_Ofkeli_C3,D05,K,25,Ofkeli,3,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D05_K_25_Ofkeli_C3.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,307.16,50.33,68.440666,0.048386,280
+G14_D05_K_25_Uzgun_C4,D05,K,25,Uzgun,4,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D05_K_25_Uzgun_C4.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,222.38,16.53,60.38731,0.020415,191
+G14_D06_C_6_Mutlu_C2,D06,C,6,Mutlu,2,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D06_C_6_Mutlu_C2.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,394.8,37.06,89.748505,0.048335,170
+G14_D06_C_6_Ofkeli_C3,D06,C,6,Ofkeli,3,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D06_C_6_Ofkeli_C3.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,356.34,56.44,46.502831,0.059508,213
+G14_D06_C_6_Uzgun_C4,D06,C,6,Uzgun,4,Huawei MateBook 14,Ev,Düşük,Dataset\GRUP_14\G14_D06_C_6_Uzgun_C4.wav,Dataset\GRUP_14\Grup_14_MetaVeri.xlsx,GRUP_14,231.54,27.27,49.943714,0.031992,176
+G15_D01_C_05_Notr_C1.wav,D01,C,5,Notr,1,iPhone 11,ev,,Dataset\GRUP_15\G15_D01_C_05_Notr_C1.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,307.91,25.85,50.839565,0.049618,140
+G15_D01_C_05_Mutlu_C2.wav,D01,C,5,Mutlu,2,iPhone 11,ev,,Dataset\GRUP_15\G15_D01_C_05_Mutlu_C2.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,349.1,20.19,56.425304,0.064078,158
+G15_D01_C_05_Uzgun_C4.wav,D01,C,5,Uzgun,4,iPhone 11,ev,,Dataset\GRUP_15\G15_D01_C_05_Uzgun_C4.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,321.54,46.08,21.860538,0.0564,85
+G15_D02_C_08_Notr_C1.wav,D02,C,8,Notr,1,iPhone 11,ev,,Dataset\GRUP_15\G15_D02_C_08_Notr_C1.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,320.3,35.01,40.825932,0.07068,127
+G15_D02_C_08_Mutlu_C2.wav,D02,C,8,Mutlu,2,iPhone 11,ev,,Dataset\GRUP_15\G15_D02_C_08_Mutlu_C2.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,346.16,74.79,25.014978,0.058381,143
+G15_D02_C_08_Uzgun_C4.wav,D02,C,8,Uzgun,4,iPhone 11,ev,,Dataset\GRUP_15\G15_D02_C_08_Uzgun_C4.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,385.73,30.07,46.570621,0.046861,114
+G15_D03_K_19_Mutlu_C2.wav,D03,K,19,Mutlu,2,İphone 13,ev,,Dataset\GRUP_15\G15_D03_K_19_Mutlu_C2.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,215.46,30.7,22.679476,0.020762,199
+G15_D03_K_19_Ofkeli_C3.wav,D03,K,19,Ofkeli,3,İphone 13,ev,,Dataset\GRUP_15\G15_D03_K_19_Ofkeli_C3.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,223.12,34.24,30.021072,0.020391,172
+G15_D03_K_19_Saskin_C5.wav,D03,K,19,Saskin,5,İphone 13,ev,,Dataset\GRUP_15\G15_D03_K_19_Saskin_C5.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,244.43,24.33,19.994745,0.02139,194
+G15_D04_K_28_Notr_C1.wav,D04,K,28,Notr,1,İphone 14,ev,,Dataset\GRUP_15\G15_D04_K_28_Notr_C1.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,176.56,27.08,22.152174,0.017558,169
+G15_D04_K_28_Saskin_C5.wav,D04,K,28,Saskin,5,İphone 14,ev,,Dataset\GRUP_15\G15_D04_K_28_Saskin_C5.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,220.2,18.12,33.532291,0.0174,200
+G15_D04_K_28_Uzgun_C4.wav,D04,K,28,Uzgun,4,İphone 14,ev,,Dataset\GRUP_15\G15_D04_K_28_Uzgun_C4.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,176.74,33.87,22.129225,0.011675,164
+G15_D05_E_26_Mutlu_C2.wav,D05,E,26,Mutlu,2,İphone 13,ev,,Dataset\GRUP_15\G15_D05_E_26_mutlu_C2.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,240.29,22.55,61.02121,0.032751,262
+G15_D05_E_26_Notr_C1.wav,D05,E,26,Notr,1,İphone 13,ev,,Dataset\GRUP_15\G15_D05_E_26_notr_C1.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,182.54,18.77,27.844355,0.019112,226
+G15_D05_E_26_Ofkeli_C3.wav,D05,E,26,Ofkeli,3,İphone 13,ev,,Dataset\GRUP_15\G15_D05_E_26_ofkeli_C3.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,262.11,19.09,61.68174,0.031334,217
+G15_D06_E_55_Mutlu_C2.wav,D06,E,55,Mutlu,2,İphone 13,ev,,Dataset\GRUP_15\G15_D06_E_55_mutlu_C2.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,207.31,39.09,50.901958,0.027071,238
+G15_D06_E_55_Notr_C1.wav,D06,E,55,Notr,1,İphone 13,ev,,Dataset\GRUP_15\G15_D06_E_55_notr_C1.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,150.65,49.71,29.739815,0.027931,250
+G15_D06_E_55_Ofkeli_C3.wav,D06,E,55,Ofkeli,3,İphone 13,ev,,Dataset\GRUP_15\G15_D06_E_55_ofkeli_C3.wav,Dataset\GRUP_15\Grup_15_MetaVeri.xlsx,GRUP_15,259.49,55.39,56.33263,0.027888,161
+G16_D01_K_21_Mutlu_C2.wav,D01,K,21,Mutlu,2,İphone 15,awm,,Dataset\GRUP_16\G16_D01_K_21_Mutlu_C2.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,283.83,22.51,47.682934,0.022918,293
+G16_D01_K_21_Ofkeli_C3.wav,D01,K,21,Ofkeli,3,İphone 15,awm,,Dataset\GRUP_16\G16_D01_K_21_Ofkeli_C3.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,345.67,45.3,45.574627,0.036654,192
+G16_D02_E_20_Ofkeli_C3.wav,D02,E,20,Ofkeli,3,İphone 13,cafe,,Dataset\GRUP_16\G16_D02_E_20_Ofkeli_C3.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,146.62,53.23,62.980347,0.029495,203
+G16_D02_E_20_Notr_C1.wav,D02,E,20,Notr,1,İphone 13,cafe,,Dataset\GRUP_16\G16_D02_E_20_Notr_C1.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,144.26,65.14,49.920998,0.022443,174
+G16_D05_C_11_Üzgün_C4.wav,D05,C,11,Uzgun,4,ıphone,ev,,Dataset\GRUP_16\G16_D05_C_11_Üzgün_C4.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,334.93,35.34,25.476078,0.018249,218
+G16_D05_C_11_Öfkeli_C3.wav,D05,C,11,Öfke,3,ıphone,ev,,Dataset\GRUP_16\G16_D05_C_11_Öfkeli_C3.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,367.44,63.04,47.071468,0.038507,163
+G16_D05_C_11_Mutlu_C2.wav,D05,C,11,Mutlu,2,ıphone,ev,,Dataset\GRUP_16\G16_D05_C_11_Mutlu_C2.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,332.99,67.02,32.059113,0.03251,159
+G16_D06_K_24_Mutlu_C2.wav,D06,K,24,Mutlu,2,iphone 11,ev,,Dataset\GRUP_16\G16_D06_K_24_Mutlu_C2.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,220.22,16.11,64.775406,0.032015,239
+G16_D06_K_24_Nötr_C1.wav,D06,K,24,Notr,1,iphone 11,ev,,Dataset\GRUP_16\G16_D06_K_24_Nötr_C1.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,216.18,18.28,67.136581,0.037424,109
+G16_D06_K_24_Ofkeli_C3.wav,D06,K,24,Ofkeli,3,iphone 11,ev,,Dataset\GRUP_16\G16_D06_K_24_Ofkeli_C3.wav,Dataset\GRUP_16\Grup_16_MetaVeri.xlsx,GRUP_16,221.31,15.71,64.080856,0.027459,185
+G17_D01_E_21_Notr_C1.wav,D01,E,21,Notr,1,Samsung Galaxy S22,ev,,Dataset\GRUP_17\G17_D01_E_21_Notr_C1.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,118.1,7.21,1.54198,0.03655,179
+G17_D01_E_21_Mutlu_C2.wav,D01,E,21,Mutlu,2,Samsung Galaxy S22,ev,,Dataset\GRUP_17\G17_D01_E_21_Mutlu_C2.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,129.98,18.23,1.290354,0.041456,188
+G17_D01_E_21_Saskin_C5.wav,D01,E,21,Saskin,5,Samsung Galaxy S22,ev,,Dataset\GRUP_17\G17_D01_E_21_Saskin_C5.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,153.83,11.38,2.629826,0.047485,164
+G17_D03_C_09_Mutlu_C2.wav,D03,C,9,Mutlu,2,Samsung Galaxy A56,ev,,Dataset\GRUP_17\G17_D03_C_09_Mutlu_C2.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,316.5,42.26,7.183142,0.021224,278
+G17_D03_C_09_Ofkeli_C3.wav,D03,C,9,Ofkeli,3,Samsung Galaxy A56,ev,,Dataset\GRUP_17\G17_D03_C_09_Ofkeli_C3.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,321.59,24.71,11.371556,0.026867,280
+G17_D05_K_66_Uzgun_C4.wav,D05,k,66,Uzgun,1,Samsung Galaxy S24,ev,,Dataset\GRUP_17\G17_D05_K_66_Uzgun_C4.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,216.32,33.66,8.60938,0.029845,163
+G17_D05_K_66_Mutlu_C2.wav,D05,k,66,Mutlu,2,Samsung Galaxy S24,ev,,Dataset\GRUP_17\G17_D05_K_66_Mutlu_C2.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,186.51,33.27,8.009917,0.02874,268
+G17_D05_K_66_Ofkeli_C3.wav,D05,k,66,Ofkeli,3,Samsung Galaxy S24,ev,,Dataset\GRUP_17\G17_D05_K_66_Ofkeli_C3.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,220.67,28.16,15.211613,0.031456,167
+G17_D06_E_68_Notr_C1.wav,D06,E,68,Notr,1,Samsung Galaxy S24,ev,,Dataset\GRUP_17\G17_D06_E_68_Notr_C1.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,138.88,71.53,15.426057,0.017984,209
+G17_D06_E_68_Mutlu_C2.wav,D06,E,68,Mutlu,2,Samsung Galaxy S24,ev,,Dataset\GRUP_17\G17_D06_E_68_Mutlu_C2.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,132.47,29.83,37.622765,0.017931,221
+G17_D06_E_68_Uzgun_C4.wav,D06,E,68,Uzgun,3,Samsung Galaxy S24,ev,,Dataset\GRUP_17\G17_D06_E_68_Uzgun_C4.wav,Dataset\GRUP_17\Grup_17_MetaVeri.xlsx,GRUP_17,142.65,60.2,18.243597,0.015137,160
+G18_D02_E_53_Notr_C1.wav,D02,E,53,Notr,1,iPhone 13,ev,dusuk,Dataset\GRUP_18\G18_D02_E_53_Notr_C1.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,107.17,36.91,33.083187,0.024274,96
+G18_D02_E_53_Mutlu_C2.wav,D02,E,53,Mutlu,2,iPhone 13,ev,dusuk,Dataset\GRUP_18\G18_D02_E_53_Mutlu_C2.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,135.93,48.44,46.496365,0.034402,213
+G18_D02_E_53_Ofkeli_C3.wav,D02,E,53,Ofkeli,3,iPhone 13,ev,dusuk,Dataset\GRUP_18\G18_D02_E_53_Ofkeli_C3.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,152.69,52.34,55.859188,0.036595,128
+G18_D03_K_17_Notr_C1.wav,D03,K,17,Notr,1,iPhone 13,ev,dusuk,Dataset\GRUP_18\G18_D03_K_17_Notr_C1.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,234.32,13.2,58.071613,0.03179,61
+G18_D03_K_17_Mutlu_C2.wav,D03,K,17,Mutlu,2,iPhone 13,ev,dusuk,Dataset\GRUP_18\G18_D03_K_17_Mutlu_C2.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,274.13,44.05,49.667564,0.02545,217
+G18_D03_K_17_Ofkeli_C3.wav,D03,K,17,Ofkeli,3,iPhone 13,ev,dusuk,Dataset\GRUP_18\G18_D03_K_17_Ofkeli_C3.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,327.1,51.26,115.491318,0.03073,37
+G18_D04_K_44_Notr_C1.wav,D04,K,44,Notr,1,iPhone 13,ev,orta,Dataset\GRUP_18\G18_D04_K_44_Notr_C1.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,203.91,18.52,50.783207,0.024509,112
+G18_D04_K_44_Mutlu_C2.wav,D04,K,44,Mutlu,2,iPhone 13,ev,orta,Dataset\GRUP_18\G18_D04_K_44_Mutlu_C2.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,253.78,32.67,62.965626,0.020406,230
+G18_D04_K_44_Ofkeli_C3.wav,D04,K,44,Ofkeli,3,iPhone 13,ev,orta,Dataset\GRUP_18\G18_D04_K_44_Ofkeli_C3.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,243.87,46.99,66.40197,0.019341,156
+G18_D05_E_18_Notr_C1.wav,D05,E,18,Notr,1,iPhone 16 Pro Max,ev,dusuk,Dataset\GRUP_18\G18_D05_E_18_Notr_C1.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,107.65,8.72,34.383003,0.024762,80
+G18_D05_E_18_Ofkeli_C3.wav,D05,E,18,Ofkeli,3,iPhone 16 Pro Max,ev,dusuk,Dataset\GRUP_18\G18_D05_E_18_Ofkeli_C3.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,181.67,16.49,71.780312,0.032431,199
+G18_D05_E_18_Saskin_C5.wav,D05,E,18,Saskin,5,iPhone 16 Pro Max,ev,dusuk,Dataset\GRUP_18\G18_D05_E_18_Saskin_C5.wav,Dataset\GRUP_18\Grup_18_MetaVeri.xlsx,GRUP_18,180.9,24.59,71.839928,0.029118,80
+G19_D01_C_08_Notr_C1.wav,D01,C,8,Notr,1,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D01_C_08_Notr_C1.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,397.08,36.1,70.981461,0.041605,336
+G19_D01_C_08_No_Mutlu_C2.wav,D01,C,8,Mutlu,2,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D01_C_08_No_Mutlu_C2.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,386.59,56.1,41.297535,0.045663,312
+G19_D01_C_08_No_Ofkeli_C3.wav,D01,C,8,Ofkeli,3,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D01_C_08_No_Ofkeli_C3.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,311.86,63.29,94.521736,0.05862,171
+G19_D02_C_09_Notr_C1.wav,D02,C,9,Notr,1,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D02_C_09_Notr_C1.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,262.86,18.61,61.06002,0.027234,167
+G19_D02_C_09_Ofkeli_C3.wav,D02,C,9,Ofkeli,3,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D02_C_09_Ofkeli_C3.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,300.17,27.99,50.994404,0.025609,213
+G19_D03_E_21_Mutlu_C2.wav,D03,E,21,Mutlu,2,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D03_E_21_Mutlu_C2.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,156.64,72.01,74.907234,0.025034,274
+G19_D03_E_21_Saskin_C5.wav,D03,E,21,Saskin,5,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D03_E_21_Saskin_C5.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,167.72,87.95,54.859489,0.031874,144
+G19_D03_E_21_Uzgun_C4.wav,D03,E,21,Uzgun,4,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D03_E_21_Uzgun_C4.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,150.69,46.6,67.003418,0.024773,187
+G19_D04_K_19_Notr_C1.wav,D04,K,19,Notr,1,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D04_K_19_Notr_C1.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,252.94,43.65,53.243855,0.024785,171
+G19_D04_K_19_No_Mutlu_C2.wav,D04,K,19,Mutlu,2,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D04_K_19_No_Mutlu_C2.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,332.7,60.43,50.564236,0.029423,172
+G19_D04_K_19_No_Ofkeli_C3.wav,D04,K,19,Ofkeli,3,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D04_K_19_No_Ofkeli_C3.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,344.58,49.56,57.024776,0.029895,180
+G19_D05_K_87_Mutlu_C2.wav,D05,K,87,Mutlu,2,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D05_K_87_Mutlu_C2.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,279.77,27.68,70.782234,0.030278,311
+G19_D05_K_87_Notr_C1.wav,D05,K,87,Notr,1,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D05_K_87_Notr_C1.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,267.01,38.2,67.457542,0.030035,192
+G19_D05_K_87_Ofkeli_C3.wav,D05,K,87,Ofkeli,3,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D05_K_87_Ofkeli_C3.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,301.51,19.28,64.509346,0.036211,125
+G19_D06_E_46_Ofkeli_C3.wav,D06,E,46,Ofkeli,3,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D06_E_46_Ofkeli_C3.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,139.11,44.52,61.225269,0.02705,231
+G19_D06_E_46_Saskin_C5.wav,D06,E,46,Saskin,5,iPhone 13,Ev/Sessiz Oda,,Dataset\GRUP_19\G19_D06_E_46_Saskin_C5.wav,Dataset\GRUP_19\Grup_19_MetaVeri.xlsx,GRUP_19,123.16,25.49,53.198215,0.022998,195
+G21_D01_C_11_Notr_C1.wav,D01,C,11,Notr,C1,iPhone 14,ev,düşük,Dataset\GRUP_21\G21_D01_C_11_Notr_C1.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,275.51,51.36,41.435616,0.037056,85
+G21_D01_C_11_Mutlu_C2.wav,D01,C,11,Mutlu,C2,iPhone 14,ev,düşük,Dataset\GRUP_21\G21_D01_C_11_Mutlu_C2.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,335.88,62.28,86.736382,0.036361,72
+G21_D01_C_11_Ofkeli_C3.wav,D01,C,11,Ofkeli,C3,iPhone 14,ev,düşük,Dataset\GRUP_21\G21_D01_C_11_Ofkeli_C3.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,366.66,45.77,72.737198,0.047678,122
+G21_D02_K_21_Notr_C1.wav,D02,K,21,Notr,C1,iPhone 14,ev,düşük,Dataset\GRUP_21\G21_D02_K_21_Notr_C1.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,262.05,26.42,44.6231,0.035039,146
+G21_D02_K_21_Mutlu_C2.wav,D02,K,21,Mutlu,C2,iPhone 14,ev,düşük,Dataset\GRUP_21\G21_D02_K_21_Mutlu_C2.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,292.65,27.36,64.876717,0.031039,171
+G21_D02_K_21_Ofkeli_C3.wav,D02,K,21,Ofkeli,C3,iPhone 14,ev,düşük,Dataset\GRUP_21\G21_D02_K_21_Ofkeli_C3.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,285.66,33.31,59.176678,0.030753,227
+G21_D03_E_50_Notr_C1.wav,D03,E,50,Notr,C1,iPhone 14,ev,düşük,Dataset\GRUP_21\G21_D03_E_50_Notr_C1.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,105.91,44.08,25.356306,0.026383,230
+G21_D03_E_50_Mutlu_C2.wav,D03,E,50,Mutlu,C2,iPhone 14,ev,düşük,Dataset\GRUP_21\G21_D03_E_50_Mutlu_C2.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,122.28,39.89,33.697906,0.029079,246
+G21_D03_E_50_Ofkeli_C3.wav,D03,E,50,Ofkeli,C3,iPhone 14,ev,düşük,Dataset\GRUP_21\G21_D03_E_50_Ofkeli_C3.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,147.84,47.16,41.633457,0.02804,211
+G21_D04_C_13_Mutlu_C2.wav,D04,C,13,Mutlu,C2,Poco X7 Pro,ev,düşük,Dataset\GRUP_21\G21_D04_C_13_Mutlu_C2.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,310.24,49.99,19.869902,0.028134,245
+G21_D04_C_13_Ofkeli_C3.wav,D04,C,13,Ofkeli,C3,Poco X7 Pro,ev,düşük,Dataset\GRUP_21\G21_D04_C_13_Ofkeli_C3.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,329.19,44.55,9.400626,0.028465,209
+G21_D04_C_13_Uzgun_C4.wav,D04,C,13,Uzgun,C4,Poco X7 Pro,ev,düşük,Dataset\GRUP_21\G21_D04_C_13_Uzgun_C4.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,296.07,57.07,11.131318,0.025961,183
+G21_D05_K_21_Ofkeli_C3.wav,D05,K,21,Ofkeli,C3,iPhone 16 Pro,ev,düşük,Dataset\GRUP_21\G21_D05_K_21_Ofkeli_C3.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,270.7,57.39,16.42449,0.01733,255
+G21_D05_K_21_Uzgun_C4.wav,D05,K,21,Uzgun,C4,iPhone 16 Pro,ev,düşük,Dataset\GRUP_21\G21_D05_K_21_Uzgun_C4.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,205.72,22.34,8.160371,0.019893,171
+G21_D05_K_21_Saskın_C5.wav,D05,K,21,Saskın,C5,iPhone 16 Pro,ev,düşük,Dataset\GRUP_21\G21_D05_K_21_Saskın_C5.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,292.87,61.84,18.880796,0.03244,83
+G21_D06_E_20_Mutlu_C2.wav,D06,E,20,Mutlu,C2,İphone 13,ev,düşük,Dataset\GRUP_21\G21_D06_E_20_Mutlu_C2.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,147.04,24.98,15.20041,0.013435,262
+G21_D06_E_20_Ofkeli_C3.wav,D06,E,20,Ofkeli,C3,İphone 13,ev,düşük,Dataset\GRUP_21\G21_D06_E_20_Ofkeli_C3.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,127.46,22.53,38.916553,0.018322,221
+G21_D06_E_20_Saskın_C5.wav,D06,E,20,Saskın,C5,İphone 13,ev,düşük,Dataset\GRUP_21\G21_D06_E_20_Saskın_C5.wav,Dataset\GRUP_21\Grup_21_MetaVeri.xlsx,GRUP_21,152.49,25.02,31.48958,0.017705,226
+G23_D01_K_23_Notr_C1.wav,D01,K,23,Notr,1,Bilgisayar Mikrofonu,ev,dusuk,Dataset\GRUP_23\G23_D01_K_23_Notr_C1.wav,Dataset\GRUP_23\Grup_23_MetaVeri.xlsx,GRUP_23,217.96,16.0,3.168648,0.015503,107
+G23_D01_K_23_Mutlu_C2.wav,D01,K,23,Mutlu,2,Bilgisayar Mikrofonu,ev,dusuk,Dataset\GRUP_23\G23_D01_K_23_Mutlu_C2.wav,Dataset\GRUP_23\Grup_23_MetaVeri.xlsx,GRUP_23,226.79,11.73,5.601427,0.014026,57
+G23_D01_K_23_Uzgun_C4.wav,D01,K,23,Uzgun,4,Bilgisayar Mikrofonu,ev,dusuk,Dataset\GRUP_23\G23_D01_K_23_Uzgun_C4.wav,Dataset\GRUP_23\Grup_23_MetaVeri.xlsx,GRUP_23,198.08,51.05,3.10449,0.016454,68
+G23_D02_K_24_Notr_C1.wav,D02,K,24,Notr,1,Bilgisayar Mikrofonu,ev,dusuk,Dataset\GRUP_23\G23_D02_K_24_Notr_C1.wav,Dataset\GRUP_23\Grup_23_MetaVeri.xlsx,GRUP_23,208.65,20.0,2.060185,0.013801,187
+G23_D05_C_12_Notr_C1.wav,D05,C,12,Notr,1,Bilgisayar Mikrofonu,ev,dusuk,Dataset\GRUP_23\G23_D05_C_12_Notr_C1.wav,Dataset\GRUP_23\Grup_23_MetaVeri.xlsx,GRUP_23,223.9,29.17,1.469896,0.015584,173
+G23_D05_C_12_Mutlu_C2.wav,D05,C,12,Mutlu,2,Bilgisayar Mikrofonu,ev,dusuk,Dataset\GRUP_23\G23_D05_C_12_Mutlu_C2.wav,Dataset\GRUP_23\Grup_23_MetaVeri.xlsx,GRUP_23,232.88,15.67,4.170674,0.012888,64
